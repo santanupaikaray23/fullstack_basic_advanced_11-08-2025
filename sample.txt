@@ -22,4 +22,16 @@ javascript - frontend validation
         2. npm install package (express)
         3. this will create node_modules folder
 
+HTML CSS
+-------------
+CSS - Cascading Stylesheet - To format the layout of my webpage
+    - With css you can control the color, font, size of the text, element position, background,
+    bg images, background colors.
+
+    CSS -  Can be added to HTML document in 3 ways
+
+    -Inline - By using style attribute inside HTML element
+    -Internal - By using <style> element in <head> sectin
+    -External - By using <Link> element to link External CSS
+    
         
