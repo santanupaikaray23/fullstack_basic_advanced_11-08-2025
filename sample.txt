@@ -1,0 +1,25 @@
+Node.js is an environment to run the javascript in the backend
+
+javascript - frontend validation
+           - minorr HTML manipulation
+           -ajax calls
+           -angular js
+           -knockoutjs
+           -backbonejs
+           -angular
+           -Reactjs
+
+           2009 - Ryan Dhal - That helped javascript to run the backend - node.js
+
+           MEAN stack developer
+
+        M - MongoDB - BSON file / JSON
+        E - Express js -Javascript
+        A - angular - Javascript
+        N - Node js - Javascript
+
+        1. npm init
+        2. npm install package (express)
+        3. this will create node_modules folder
+
+        
