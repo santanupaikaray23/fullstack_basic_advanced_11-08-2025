@@ -43,5 +43,59 @@ CSS - Cascading Stylesheet - To format the layout of my webpage
     padding : Define space between your text and border.
     margin :  Define the space between border
 
+    HTML Forms
+--------------------
+Required to collect some data from the user. for e.g Name, Email, Phone
+
+<form action="/user" method="get">
+form elements
+</form>
+
+HTTP Methods - GET, PUT, POST, DELETE (CRUD Operations)
+
+HTML FORM CONTROLS
+-------------------------
+1. Text Input Control - Single Line Input, Password Input, Multiline Input
+2. Checkbox control - 
+3. Radiobox control
+4. Selectbox control
+5. File control
+6. Hidden control
+7. Clickable button
+8. Submit button and reset button
+
+Block Level Element and Inline Element
+------------------------------------------
+
+Block level element occupies entire space of the parent.
+Always start in a new line.
+
+Example of block level element:
+H1-H6
+<table>
+<p>
+<div>
+<form>
+<video>
+<hr>
+<header>
+<address>
+
+Inline Element
+--------------------
+<span>
+<a>
+<button>
+<sup>
+<sub>
+<textarea>
+<level> 
+<b>
+<strong>
+
+
+
+
+
 
         
