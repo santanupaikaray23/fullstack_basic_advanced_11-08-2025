@@ -83,6 +83,9 @@ H1-H6
 
 Inline Element
 --------------------
+Doesn't start with on a new line
+Only takes up as much width as necessary
+
 <span>
 <a>
 <button>
@@ -93,8 +96,28 @@ Inline Element
 <b>
 <strong>
 
+span - container used to work up a part of text or part of 
+document
 
+div - known as DIVISON Tag
+It is often used as a container for other HTML elements.
+defines a division or a section in an HTML document
+any sort of content can be placed inside <div> Tag
 
+level vs span:
+--------------
+Level is used when we have form or input elements.
+Span is used anywhere, this is  a general container for any inline content.
+
+HTML DOM (Document Object Model)
+-----------------------------------
+When page is loaded, browser creates a document object Model of the page.
+
+Usage: With HTML DOM Javascript can access all the elements of HTML document.
+
+Javascript can add, remove, change all the HTML elements, html attributes, css styles in the page.
+
+Javascript can react to HTML events, Can create new HTML events in the page. 
 
 
 
