@@ -34,4 +34,14 @@ CSS - Cascading Stylesheet - To format the layout of my webpage
     -Internal - By using <style> element in <head> sectin
     -External - By using <Link> element to link External CSS
     
+    CSS Colors, Fonts, Sizes:
+    ---------------------------
+    color : Define the text of your color.
+    font-family : Define fonts to be used
+    font-size : Define size of the font
+    border : define border for all HTML
+    padding : Define space between your text and border.
+    margin :  Define the space between border
+
+
         
