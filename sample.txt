@@ -119,6 +119,40 @@ Javascript can add, remove, change all the HTML elements, html attributes, css s
 
 Javascript can react to HTML events, Can create new HTML events in the page. 
 
+Video Tag:
+------------
+Will help you to display video in the page.
+
+controls - The browser will offer controls to allow the user to control
+audio, playback, volume, pause/ Resume.
+
+autoplay - The audio will automatically begin playback as soon as it can.
+
+muted - will mute the audio
+
+HTML Class:
+-----------
+This is an attribute which is used to specify a class for an HTML element.
+
+Multiple HTML elements can share same class.
+
+HTML Responsive:
+--------------------
+Responsive web design is about creating webpages that look good on all devices.
+
+This will automatically adjust for different screen sizes.
+
+To create responsive website we need <meta> Tag
+
+<meta name="viewport" content="width=device-width", intial scale 1.0">
+
+This will set the viewport of your page which will give browser instruction on how to control page 
+diemsnsions and scaling.
+
+meta - Element specify the charcter set, page description, keywords, author of the document and 
+viewport settings.
+
+
 
 
         
