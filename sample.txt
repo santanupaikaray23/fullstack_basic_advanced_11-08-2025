@@ -152,6 +152,34 @@ diemsnsions and scaling.
 meta - Element specify the charcter set, page description, keywords, author of the document and 
 viewport settings.
 
+Semantic elements:
+----------------------
+Elements with meaning and clearly tell us what the content is about.
+<article>
+<aside>
+<details>
+<figcaption>
+<figure>
+<footer>
+<header>
+<main>
+<mark>
+<section>
+<summary>
+<time>
+<div>
+
+Non Semantic Elements
+------------------------
+<span>
+
+Tells nothing about the content
+
+<div id="nav">
+<div class="header">
+<div class="footer">
+
+
 
 
 
